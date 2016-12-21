@@ -29,17 +29,10 @@ body, p {
 }
 .btn {
   width: 30%;
-  background: #e9885d;
-}
-#scan {
+  outline: none !important;
   color: #fff;
   margin-left: 5%;
   margin-right: 5%;
-  outline: none;
-}
-#verify {
-  outline: none;
-  color: #fff;
 }
 .result-div {
   height: 20em;

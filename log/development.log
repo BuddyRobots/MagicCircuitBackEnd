@@ -8610,3 +8610,858 @@ Completed 200 OK in 1250ms (Views: 1248.8ms)
 
 Started GET "/assets/pages/certificates/test-bundle.self-4f2dabcf7430472037c76ef0a788f26fe12250671286217ef494b0d63dad0fbd.css?body=1" for 192.168.1.104 at 2016-12-21 14:22:29 +0800
 Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:37:46 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (4.5ms)
+Completed 200 OK in 45ms (Views: 44.4ms)
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:38:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (35.7ms)
+Completed 200 OK in 1431ms (Views: 1430.9ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-6be3b35ef60985c95aaa780cec9f0cdd3a3e1966553a5d2accd32cc7a5928a88.css?body=1" for 192.168.1.104 at 2016-12-21 14:38:26 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:38:44 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (4.2ms)
+Completed 200 OK in 37ms (Views: 36.4ms)
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:39:33 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (20.1ms)
+Completed 200 OK in 1107ms (Views: 1106.0ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-b2786c57f2dfbcf61adb150dd03b49bd9e1c5bf3992df13c5146b1ebc671c02c.css?body=1" for 192.168.1.104 at 2016-12-21 14:39:34 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:41:38 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (5.0ms)
+Completed 200 OK in 34ms (Views: 33.6ms)
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:41:49 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (18.2ms)
+Completed 200 OK in 1161ms (Views: 1160.4ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-ef1611cea3012ad60f9780bff80f603a864f0454db8c94865026886d86255931.css?body=1" for 192.168.1.104 at 2016-12-21 14:41:50 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:41:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (5.2ms)
+Completed 200 OK in 44ms (Views: 43.4ms)
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:42:41 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (22.0ms)
+Completed 200 OK in 1169ms (Views: 1168.6ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-9d5c844dad8404c3d727afc0e8eefad369ac6af60b59e5cca51ca4a4d9528f68.css?body=1" for 192.168.1.104 at 2016-12-21 14:42:42 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:46:00 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (25.8ms)
+Completed 200 OK in 1074ms (Views: 1073.3ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-9e2fc4e83e538d47a95314e22d9aa859fa7c6ab268e4a02f9c787534db136987.css?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-77f0450d6b1702d815b33c0b4fdc1d5c68ac0c63080c4906394e3e536484b59e.css?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-14e8048ca0870e6a1ab98e7273aadcf9f101b9b77cd62dc856e5c3345bfe2897.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-56b0aa35ba09c4562e1da58f522e8b6a80465be7eb3b07e465247c67272c5045.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-fc6713d45755bec3837e6a5fd8e3d1c40014f490838f7b2a487f5657e4b078aa.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-8da28f1a43593a42fc630ee05aa5c881ab538ecaef6d93b888c910d6c57491a3.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-67b2cc75310f1af982ce46e8432341ef7448488f1ef957171335489342f91b31.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-9b54bcf1950a1371fd1cdfd37d95d7966abebe4a79c43d5502c2751a82719c18.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-1b84e25b7c393b2ba0aa65a56983b4658e0f94acbb886138ad22de73a5b5f541.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-2da0d063949ae9f31354b8e9e555006e277d06fd03f632cb90d71832db7c7c9a.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-b352edad3a7a2084f2dec3ec280730716655b27b74ab10403bc959c77f914156.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-571a56390bb666998810e4cc6845dcf43b862380c962ccad8915bbac46a9f5c3.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-5b9e27c9d9dac4c215e715f0ee799b2de30891d639b1541c400c56e65728bf29.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-f250a129286fa427aeac73823d1b156628fbe543780fb4779d3964bf3e3b1a67.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-051f09665d8186f784c41bab08d23a7e6dfe0c620971daa896cd523d5c94527b.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (4.3ms)
+Completed 200 OK in 37ms (Views: 36.9ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-9e2fc4e83e538d47a95314e22d9aa859fa7c6ab268e4a02f9c787534db136987.css?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-56b0aa35ba09c4562e1da58f522e8b6a80465be7eb3b07e465247c67272c5045.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-77f0450d6b1702d815b33c0b4fdc1d5c68ac0c63080c4906394e3e536484b59e.css?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-14e8048ca0870e6a1ab98e7273aadcf9f101b9b77cd62dc856e5c3345bfe2897.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-fc6713d45755bec3837e6a5fd8e3d1c40014f490838f7b2a487f5657e4b078aa.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-8da28f1a43593a42fc630ee05aa5c881ab538ecaef6d93b888c910d6c57491a3.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-67b2cc75310f1af982ce46e8432341ef7448488f1ef957171335489342f91b31.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-9b54bcf1950a1371fd1cdfd37d95d7966abebe4a79c43d5502c2751a82719c18.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-1b84e25b7c393b2ba0aa65a56983b4658e0f94acbb886138ad22de73a5b5f541.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-2da0d063949ae9f31354b8e9e555006e277d06fd03f632cb90d71832db7c7c9a.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-b352edad3a7a2084f2dec3ec280730716655b27b74ab10403bc959c77f914156.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-571a56390bb666998810e4cc6845dcf43b862380c962ccad8915bbac46a9f5c3.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-5b9e27c9d9dac4c215e715f0ee799b2de30891d639b1541c400c56e65728bf29.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-051f09665d8186f784c41bab08d23a7e6dfe0c620971daa896cd523d5c94527b.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-f250a129286fa427aeac73823d1b156628fbe543780fb4779d3964bf3e3b1a67.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:02 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (3.5ms)
+Completed 200 OK in 36ms (Views: 35.8ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-9e2fc4e83e538d47a95314e22d9aa859fa7c6ab268e4a02f9c787534db136987.css?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-77f0450d6b1702d815b33c0b4fdc1d5c68ac0c63080c4906394e3e536484b59e.css?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-56b0aa35ba09c4562e1da58f522e8b6a80465be7eb3b07e465247c67272c5045.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-14e8048ca0870e6a1ab98e7273aadcf9f101b9b77cd62dc856e5c3345bfe2897.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-8da28f1a43593a42fc630ee05aa5c881ab538ecaef6d93b888c910d6c57491a3.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-fc6713d45755bec3837e6a5fd8e3d1c40014f490838f7b2a487f5657e4b078aa.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-67b2cc75310f1af982ce46e8432341ef7448488f1ef957171335489342f91b31.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-9b54bcf1950a1371fd1cdfd37d95d7966abebe4a79c43d5502c2751a82719c18.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-1b84e25b7c393b2ba0aa65a56983b4658e0f94acbb886138ad22de73a5b5f541.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-b352edad3a7a2084f2dec3ec280730716655b27b74ab10403bc959c77f914156.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-2da0d063949ae9f31354b8e9e555006e277d06fd03f632cb90d71832db7c7c9a.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-571a56390bb666998810e4cc6845dcf43b862380c962ccad8915bbac46a9f5c3.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-5b9e27c9d9dac4c215e715f0ee799b2de30891d639b1541c400c56e65728bf29.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-f250a129286fa427aeac73823d1b156628fbe543780fb4779d3964bf3e3b1a67.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-051f09665d8186f784c41bab08d23a7e6dfe0c620971daa896cd523d5c94527b.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.1.104 at 2016-12-21 14:46:16 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:52:50 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (26.2ms)
+Completed 200 OK in 1160ms (Views: 1159.5ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-2506a301ae9141acb3b02d55f3d27b0f949bd4d56af7e77722cc024ff11da2a8.css?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-77f0450d6b1702d815b33c0b4fdc1d5c68ac0c63080c4906394e3e536484b59e.css?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-14e8048ca0870e6a1ab98e7273aadcf9f101b9b77cd62dc856e5c3345bfe2897.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-56b0aa35ba09c4562e1da58f522e8b6a80465be7eb3b07e465247c67272c5045.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-67b2cc75310f1af982ce46e8432341ef7448488f1ef957171335489342f91b31.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-fc6713d45755bec3837e6a5fd8e3d1c40014f490838f7b2a487f5657e4b078aa.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-9b54bcf1950a1371fd1cdfd37d95d7966abebe4a79c43d5502c2751a82719c18.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-8da28f1a43593a42fc630ee05aa5c881ab538ecaef6d93b888c910d6c57491a3.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-1b84e25b7c393b2ba0aa65a56983b4658e0f94acbb886138ad22de73a5b5f541.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-b352edad3a7a2084f2dec3ec280730716655b27b74ab10403bc959c77f914156.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-2da0d063949ae9f31354b8e9e555006e277d06fd03f632cb90d71832db7c7c9a.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-571a56390bb666998810e4cc6845dcf43b862380c962ccad8915bbac46a9f5c3.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-5b9e27c9d9dac4c215e715f0ee799b2de30891d639b1541c400c56e65728bf29.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-f250a129286fa427aeac73823d1b156628fbe543780fb4779d3964bf3e3b1a67.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-051f09665d8186f784c41bab08d23a7e6dfe0c620971daa896cd523d5c94527b.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:51 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (6.8ms)
+Completed 200 OK in 51ms (Views: 49.7ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-2506a301ae9141acb3b02d55f3d27b0f949bd4d56af7e77722cc024ff11da2a8.css?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-77f0450d6b1702d815b33c0b4fdc1d5c68ac0c63080c4906394e3e536484b59e.css?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-56b0aa35ba09c4562e1da58f522e8b6a80465be7eb3b07e465247c67272c5045.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-14e8048ca0870e6a1ab98e7273aadcf9f101b9b77cd62dc856e5c3345bfe2897.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-8da28f1a43593a42fc630ee05aa5c881ab538ecaef6d93b888c910d6c57491a3.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-67b2cc75310f1af982ce46e8432341ef7448488f1ef957171335489342f91b31.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-9b54bcf1950a1371fd1cdfd37d95d7966abebe4a79c43d5502c2751a82719c18.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-1b84e25b7c393b2ba0aa65a56983b4658e0f94acbb886138ad22de73a5b5f541.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-fc6713d45755bec3837e6a5fd8e3d1c40014f490838f7b2a487f5657e4b078aa.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-b352edad3a7a2084f2dec3ec280730716655b27b74ab10403bc959c77f914156.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-2da0d063949ae9f31354b8e9e555006e277d06fd03f632cb90d71832db7c7c9a.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-571a56390bb666998810e4cc6845dcf43b862380c962ccad8915bbac46a9f5c3.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-5b9e27c9d9dac4c215e715f0ee799b2de30891d639b1541c400c56e65728bf29.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-f250a129286fa427aeac73823d1b156628fbe543780fb4779d3964bf3e3b1a67.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-051f09665d8186f784c41bab08d23a7e6dfe0c620971daa896cd523d5c94527b.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.1.104 at 2016-12-21 14:52:56 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (3.9ms)
+Completed 200 OK in 38ms (Views: 36.5ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-9e2fc4e83e538d47a95314e22d9aa859fa7c6ab268e4a02f9c787534db136987.css?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-77f0450d6b1702d815b33c0b4fdc1d5c68ac0c63080c4906394e3e536484b59e.css?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-56b0aa35ba09c4562e1da58f522e8b6a80465be7eb3b07e465247c67272c5045.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-fc6713d45755bec3837e6a5fd8e3d1c40014f490838f7b2a487f5657e4b078aa.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-1b84e25b7c393b2ba0aa65a56983b4658e0f94acbb886138ad22de73a5b5f541.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-67b2cc75310f1af982ce46e8432341ef7448488f1ef957171335489342f91b31.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-14e8048ca0870e6a1ab98e7273aadcf9f101b9b77cd62dc856e5c3345bfe2897.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-9b54bcf1950a1371fd1cdfd37d95d7966abebe4a79c43d5502c2751a82719c18.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-8da28f1a43593a42fc630ee05aa5c881ab538ecaef6d93b888c910d6c57491a3.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-b352edad3a7a2084f2dec3ec280730716655b27b74ab10403bc959c77f914156.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-571a56390bb666998810e4cc6845dcf43b862380c962ccad8915bbac46a9f5c3.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-5b9e27c9d9dac4c215e715f0ee799b2de30891d639b1541c400c56e65728bf29.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-f250a129286fa427aeac73823d1b156628fbe543780fb4779d3964bf3e3b1a67.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-2da0d063949ae9f31354b8e9e555006e277d06fd03f632cb90d71832db7c7c9a.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-051f09665d8186f784c41bab08d23a7e6dfe0c620971daa896cd523d5c94527b.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:09 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (4.4ms)
+Completed 200 OK in 37ms (Views: 36.6ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-2506a301ae9141acb3b02d55f3d27b0f949bd4d56af7e77722cc024ff11da2a8.css?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-77f0450d6b1702d815b33c0b4fdc1d5c68ac0c63080c4906394e3e536484b59e.css?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-14e8048ca0870e6a1ab98e7273aadcf9f101b9b77cd62dc856e5c3345bfe2897.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-fc6713d45755bec3837e6a5fd8e3d1c40014f490838f7b2a487f5657e4b078aa.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-8da28f1a43593a42fc630ee05aa5c881ab538ecaef6d93b888c910d6c57491a3.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-56b0aa35ba09c4562e1da58f522e8b6a80465be7eb3b07e465247c67272c5045.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-9b54bcf1950a1371fd1cdfd37d95d7966abebe4a79c43d5502c2751a82719c18.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-67b2cc75310f1af982ce46e8432341ef7448488f1ef957171335489342f91b31.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-1b84e25b7c393b2ba0aa65a56983b4658e0f94acbb886138ad22de73a5b5f541.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-b352edad3a7a2084f2dec3ec280730716655b27b74ab10403bc959c77f914156.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-2da0d063949ae9f31354b8e9e555006e277d06fd03f632cb90d71832db7c7c9a.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-5b9e27c9d9dac4c215e715f0ee799b2de30891d639b1541c400c56e65728bf29.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-f250a129286fa427aeac73823d1b156628fbe543780fb4779d3964bf3e3b1a67.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-571a56390bb666998810e4cc6845dcf43b862380c962ccad8915bbac46a9f5c3.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-051f09665d8186f784c41bab08d23a7e6dfe0c620971daa896cd523d5c94527b.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.1.104 at 2016-12-21 14:53:25 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:55:01 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (21.7ms)
+Completed 200 OK in 1113ms (Views: 1113.0ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-4842b692658eadfc7a00f6e9630f604313e7082ea7194b23a68bc57e6addf9d2.css?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-77f0450d6b1702d815b33c0b4fdc1d5c68ac0c63080c4906394e3e536484b59e.css?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-fc6713d45755bec3837e6a5fd8e3d1c40014f490838f7b2a487f5657e4b078aa.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-56b0aa35ba09c4562e1da58f522e8b6a80465be7eb3b07e465247c67272c5045.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-14e8048ca0870e6a1ab98e7273aadcf9f101b9b77cd62dc856e5c3345bfe2897.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-67b2cc75310f1af982ce46e8432341ef7448488f1ef957171335489342f91b31.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-9b54bcf1950a1371fd1cdfd37d95d7966abebe4a79c43d5502c2751a82719c18.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-8da28f1a43593a42fc630ee05aa5c881ab538ecaef6d93b888c910d6c57491a3.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-1b84e25b7c393b2ba0aa65a56983b4658e0f94acbb886138ad22de73a5b5f541.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-b352edad3a7a2084f2dec3ec280730716655b27b74ab10403bc959c77f914156.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-2da0d063949ae9f31354b8e9e555006e277d06fd03f632cb90d71832db7c7c9a.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-571a56390bb666998810e4cc6845dcf43b862380c962ccad8915bbac46a9f5c3.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-5b9e27c9d9dac4c215e715f0ee799b2de30891d639b1541c400c56e65728bf29.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-f250a129286fa427aeac73823d1b156628fbe543780fb4779d3964bf3e3b1a67.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-051f09665d8186f784c41bab08d23a7e6dfe0c620971daa896cd523d5c94527b.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.1.104 at 2016-12-21 14:55:03 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/certificates/test" for 192.168.1.104 at 2016-12-21 14:56:19 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CertificatesController#test as HTML
+  Rendered certificates/test.haml within layouts/application (26.6ms)
+Completed 200 OK in 1231ms (Views: 1231.1ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-69cdbb0536c06600dea4aa3b3375f961f361733f216c279502ca1f08f01ed7c3.css?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-56b0aa35ba09c4562e1da58f522e8b6a80465be7eb3b07e465247c67272c5045.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-77f0450d6b1702d815b33c0b4fdc1d5c68ac0c63080c4906394e3e536484b59e.css?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-14e8048ca0870e6a1ab98e7273aadcf9f101b9b77cd62dc856e5c3345bfe2897.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-fc6713d45755bec3837e6a5fd8e3d1c40014f490838f7b2a487f5657e4b078aa.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-8da28f1a43593a42fc630ee05aa5c881ab538ecaef6d93b888c910d6c57491a3.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-67b2cc75310f1af982ce46e8432341ef7448488f1ef957171335489342f91b31.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-1b84e25b7c393b2ba0aa65a56983b4658e0f94acbb886138ad22de73a5b5f541.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-9b54bcf1950a1371fd1cdfd37d95d7966abebe4a79c43d5502c2751a82719c18.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-2da0d063949ae9f31354b8e9e555006e277d06fd03f632cb90d71832db7c7c9a.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-b352edad3a7a2084f2dec3ec280730716655b27b74ab10403bc959c77f914156.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-571a56390bb666998810e4cc6845dcf43b862380c962ccad8915bbac46a9f5c3.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-f250a129286fa427aeac73823d1b156628fbe543780fb4779d3964bf3e3b1a67.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-051f09665d8186f784c41bab08d23a7e6dfe0c620971daa896cd523d5c94527b.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-5b9e27c9d9dac4c215e715f0ee799b2de30891d639b1541c400c56e65728bf29.js?body=1" for 192.168.1.104 at 2016-12-21 14:56:20 +0800
+Cannot render console from 192.168.1.104! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
