@@ -1,0 +1,52 @@
+html {
+  font-family:"Microsoft YaHei";
+}
+body, p {
+  margin: 0;
+  padding: 0;
+}
+.wrap {
+  width: 70%;
+  padding: 2% 0;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.left-div {
+  width: 40%;
+  float: left;
+  padding-top: 2%;
+  text-align: center;
+}
+.right-div {
+  width: 55%;
+  float: right;
+}
+.control-label {
+  font-weight: normal;
+}
+.caption {
+  font-weight: normal;
+}
+.btn {
+  width: 30%;
+  background: #e9885d;
+}
+#scan {
+  color: #fff;
+  margin-left: 5%;
+  margin-right: 5%;
+  outline: none;
+}
+#verify {
+  outline: none;
+  color: #fff;
+}
+.result-div {
+  height: 20em;
+  border: 1px solid #eaebf2;
+  background: #f5f6fa;
+}
+
+
+
+
