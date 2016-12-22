@@ -10,9 +10,17 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
+ *= require jquery-ui
+ *= require jquery-ui/datepicker
  *= require_tree .
  *= require_self
  */
 
  @import "bootstrap-sprockets";
  @import "bootstrap";
+
+
+ .ui-datepicker .ui-datepicker-title select {
+ 	vertical-align: middle;
+ }
+ 

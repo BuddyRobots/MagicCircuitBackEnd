@@ -3,5 +3,50 @@
   = stylesheet_link_tag "pages/statistics/index-bundle", :media => "all"
 
 
-/ - content_for :app_content do
+- content_for :app_content do
+  .content-div
+    .product
+      %p.title 产品生产
+      .num
+        .form-horizontal
+          .form-group
+            %label.control-label.col-sm-5.caption 生产数量
+            .col-sm-7
+              %input.form-control{type: "text"}
+        %button.btn.btn-success.download-btn{type: "button"} 下载二维码
+    .data
+      %p.title 产品数据
+      .desc
+        .search
+          %form.form-inline
+            .form-group.form-time
+              %span.input-caption　查询时间:
+              %input.input-area.form-control#datepicker-1{:type => "text"}
+              %span.input-caption 至
+              %input.input-area.form-control#datepicker-2{:type => "text"}
+              %button.btn.btn-success.search-btn{:type => "button"} 查询
+              %select.form-control.quick-choice
+                %option 最近一个月
+                %option 最近三个月
+                %option 最近半年
+                %option 最近一年
+        .tabbable
+          %ul.nav.nav-tabs
+            %li.active
+              %a#product-num{"data-toggle" => "tab", :href => "#tab1"} 产品激活数量
+            %li
+              %a#device-num{"data-toggle" => "tab", :href => "#tab2"} 设备激活数量
+            %li
+              %a#active-num{"data-toggle" => "tab", :href => "#tab3"} 活跃APP数量
+          .tab-content
+            #tab1.tab-pane.active
+              .figure-box
+                #product-statistics
+            #tab2.tab-pane
+              .figure-box
+                #device-statistics
+            #tab3.tab-pane
+              .figure-box
+                #active-statistics
+
 
