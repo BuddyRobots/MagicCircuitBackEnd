@@ -21,7 +21,7 @@ class Device
       return ErrCode::MAX_NUM_REACHED
     end
     product.devices << self
-    return true
+    return 1
   end
 
 end
