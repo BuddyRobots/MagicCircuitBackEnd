@@ -4,6 +4,8 @@ source 'https://ruby.taobao.org'
 gem 'mongoid', '~> 5.1.3'
 gem 'haml-rails'
 gem 'bootstrap-sass'
+gem 'rqrcode', '0.10.1'
+gem 'rubyzip'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'

@@ -1,6 +1,18 @@
 #= require highcharts
 
 $ ->
+
+  $("#download-btn").click ->
+    num = $("#product-num").val()
+    if $.isNumeric(num)
+      num = parseInt(num)
+      if num > 0
+        location.href = "/products/download_qrcode?amount=" + num
+      else
+        alert("请正确输入数量")
+    else
+      alert("请正确输入数量")
+
   $( "#datepicker-1" ).datepicker({
         changeMonth: true,
         changeYear: true,

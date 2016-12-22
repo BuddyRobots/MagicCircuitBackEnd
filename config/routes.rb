@@ -8,6 +8,12 @@ Rails.application.routes.draw do
   resources :statistics do
   end
 
+  resources :products do
+    collection do
+      get :download_qrcode
+    end
+  end
+
   resources :certificates do
     member do
       get :check
