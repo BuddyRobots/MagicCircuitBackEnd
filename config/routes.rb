@@ -3,7 +3,10 @@ Rails.application.routes.draw do
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  root 'certificates#test'
+  root 'statistics#index'
+
+  resources :statistics do
+  end
 
   resources :certificates do
     member do

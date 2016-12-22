@@ -14356,3 +14356,78 @@ MONGODB | localhost:27017 | magic_circuit_development.count | SUCCEEDED | 0.0005
 MONGODB | localhost:27017 | magic_circuit_development.update | STARTED | {"update"=>"devices", "updates"=>[{"q"=>{"_id"=>BSON::ObjectId('585a5941d797837f1e95e9bc')}, "u"=>{"$set"=>{"product_id"=>BSON::ObjectId('585a344dd7978376eb70e176'), "updated_at"=>2016-12-21 10:28:19 UTC}}, "multi"=>false, "upsert"=>false}], "ordered"...
 MONGODB | localhost:27017 | magic_circuit_development.update | SUCCEEDED | 0.000728949s
 Completed 200 OK in 11ms (Views: 0.3ms)
+
+
+Started GET "/" for ::1 at 2016-12-22 10:10:45 +0800
+Processing by StatisticsController#index as HTML
+  Rendered statistics/index.haml within layouts/application (1168.1ms)
+Completed 200 OK in 1227ms (Views: 1220.5ms)
+
+
+Started GET "/assets/pages/certificates/test-bundle.self-69d98cd459787ff83274b7b8601e0b5e3ed6a546cad0c52312cf23b1a90746ca.css?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/pages/statistics/index-bundle.self-201956440405b38ce1c125dd91fed2fc377469e7c603e5f5ed36733b3472452f.css?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/application.self-2abbe283b162840fb008bd063c1a58301b57a12ee13d625d2dfe2d5d908fa5d5.css?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/affix.self-14e8048ca0870e6a1ab98e7273aadcf9f101b9b77cd62dc856e5c3345bfe2897.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/alert.self-fc6713d45755bec3837e6a5fd8e3d1c40014f490838f7b2a487f5657e4b078aa.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/button.self-8da28f1a43593a42fc630ee05aa5c881ab538ecaef6d93b888c910d6c57491a3.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/carousel.self-67b2cc75310f1af982ce46e8432341ef7448488f1ef957171335489342f91b31.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/collapse.self-9b54bcf1950a1371fd1cdfd37d95d7966abebe4a79c43d5502c2751a82719c18.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/dropdown.self-1b84e25b7c393b2ba0aa65a56983b4658e0f94acbb886138ad22de73a5b5f541.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/tab.self-b352edad3a7a2084f2dec3ec280730716655b27b74ab10403bc959c77f914156.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/transition.self-2da0d063949ae9f31354b8e9e555006e277d06fd03f632cb90d71832db7c7c9a.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/scrollspy.self-571a56390bb666998810e4cc6845dcf43b862380c962ccad8915bbac46a9f5c3.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/modal.self-5b9e27c9d9dac4c215e715f0ee799b2de30891d639b1541c400c56e65728bf29.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/tooltip.self-f250a129286fa427aeac73823d1b156628fbe543780fb4779d3964bf3e3b1a67.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap/popover.self-051f09665d8186f784c41bab08d23a7e6dfe0c620971daa896cd523d5c94527b.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/utility/ajax.self-1fe6aafc4db68c7f2c7edd06cfffdaf591578c033e91b3043a6540f3542bc831.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/utility/console.self-556e29aea08ff79bf990de5c5798a111da96dae76d3794f0be0bfb7423e092c7.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
+
+
+Started GET "/assets/pages/statistics/index-bundle.self-ed325d1ac1368c003030bcfb51d38d676f0f373d8997f5eb5bfca1aff5b6f0dd.js?body=1" for ::1 at 2016-12-22 10:10:47 +0800
