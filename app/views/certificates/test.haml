@@ -15,10 +15,16 @@
           %label.control-label.col-sm-3 产品码
           .col-sm-9
             %input#product-code.form-control{type: "text"}
-      %button.btn.btn-primary{type: "button"} 查看
-      %button.btn.btn-primary{type: "button"} 验证
+      %button#check-btn.btn.btn-primary{type: "button"} 查看
+      %button#valid-btn.btn.btn-primary{type: "button"} 验证
+      %button#reset-btn.btn.btn-primary{type: "button"} 重置
+
     .right-div
       %p 返回结果
       .result-div
-
+      %p -1表示二维码错误，-2表示已达到最大激活数量（3个设备）
+  .spec
+    %ul
+      %li 查看接口地址：/certificates/{device_code}/check，例如查看设备id为aaa的设备是否激活，应访问地址http://192.168.1.101:4000/certificates/aaa/check
+      %li 验证接口地址：/certificates/{device_code}/valid?product_code={product_code}，例如用产品码为12345的产品去激活设备码为aaa的设备，应访问地址http://192.168.1.101:4000/certificates/aaa/valid?product_code=12345
 

@@ -12,6 +12,7 @@ Rails.application.routes.draw do
     end
     collection do
       get :test
+      post :reset
     end
   end
 

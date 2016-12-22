@@ -5,11 +5,14 @@ body, p {
   margin: 0;
   padding: 0;
 }
-.wrap {
+.wrap, .spec {
   width: 70%;
   padding: 2% 0;
   margin: 0 auto;
   overflow: hidden;
+}
+.spec ul li {
+  padding: 10px;
 }
 .left-div {
   width: 40%;
@@ -28,16 +31,18 @@ body, p {
   font-weight: normal;
 }
 .btn {
-  width: 30%;
+  width: 20%;
   outline: none !important;
   color: #fff;
   margin-left: 5%;
   margin-right: 5%;
 }
 .result-div {
-  height: 20em;
+  height: 3em;
   border: 1px solid #eaebf2;
   background: #f5f6fa;
+  padding: 10px;
+  margin: 10px 0px;
 }
 
 
